@@ -4,8 +4,8 @@ This project was inspired by [u/turtlemine](https://www.reddit.com/r/MechanicalK
 
 Resources: 
 - [How to Design Mechanical Keyboard Plates and Cases by Joe Scotto](https://youtu.be/7azQkSu0m_U?si=JmxVnO-0YYwX_uqC)
-- [Plate CAD converter Tool](https://www.keyboardcad.com/)
-- [Plate CAD converter Tool](http://builder.swillkb.com/)
+- [Plate CAD converter Tool; keyboard cad](https://www.keyboardcad.com/)
+- [Plate CAD converter Tool; swillkb](http://builder.swillkb.com/)
 
 Initial Layout planning was done using [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
 <img src="Keyboard Layout/Keyboard Layout Editor.png" width="auto" height="auto"/>
