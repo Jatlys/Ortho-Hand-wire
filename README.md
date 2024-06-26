@@ -4,7 +4,7 @@ This project was inspired by [u/turtlemine](https://www.reddit.com/r/MechanicalK
 
 Resources: 
 - [How to Design Mechanical Keyboard Plates and Cases by Joe Scotto](https://youtu.be/7azQkSu0m_U?si=JmxVnO-0YYwX_uqC)
--[How to Builf a Handwired Keyboard by Joe Scotto](https://youtu.be/hjml-K-pV4E?si=5JrnIEPtVZDEkIyO)
+- [How to Build a Handwired Keyboard by Joe Scotto](https://youtu.be/hjml-K-pV4E?si=5JrnIEPtVZDEkIyO)
 - [Plate CAD converter Tool; keyboard cad](https://www.keyboardcad.com/)
 - [Plate CAD converter Tool; swillkb](http://builder.swillkb.com/)
 
